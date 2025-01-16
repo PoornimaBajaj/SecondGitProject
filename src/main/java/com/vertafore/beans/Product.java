@@ -1,7 +1,7 @@
 package com.vertafore.beans;
 
 import jakarta.persistence.*;
-//trying git hub
+//trying git hub -- edited
 @Entity
 @Table(name="MYPRODUCT")
 public class Product {
